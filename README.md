@@ -1,2 +1,2 @@
 # ecommerceappui
-it
+it's just an UI of horizontal scrolling
